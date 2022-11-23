@@ -1,0 +1,27 @@
+
+.btn {
+    width: 106px;
+    height: 46px;
+    border-radius: 5px;
+    border: 0;
+    font-weight: bold;
+}
+
+.lock {
+    color: #FF7A00;
+    background-color: #FFEDD8;
+}
+.lock:hover {
+    color: #faa352;
+    background-color: #e6dbcf;
+}
+
+.spam {
+    color: #DD2829;
+    background-color: #FFE8F0;
+}
+
+.spam:hover {
+    color: #ba3d3e;
+    background-color: #d1bec5;
+}

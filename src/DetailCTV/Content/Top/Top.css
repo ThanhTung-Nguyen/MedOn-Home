@@ -1,0 +1,15 @@
+.Content {
+    background-color: #FFFFFF;
+    /* width: 1303px; */
+    /* border: 1px solid #ddd; */
+    margin-bottom: 103px;
+}
+.topContent {
+    display: flex;
+    width: 1303px;
+    padding: 10px;
+    border: 1px solid black;
+}
+.nameDetail {
+    padding: 0px 0 20px 20px;
+}

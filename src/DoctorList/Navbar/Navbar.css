@@ -1,0 +1,15 @@
+.navBarparent {
+    width: 1440px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #EFEFEF;
+}
+.divImg {
+    width: 240px;
+    font-size: 0px;
+}
+.divBtn {
+    padding-right: 20px;
+}

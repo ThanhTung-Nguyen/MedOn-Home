@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+.ant-layout-header{
+    padding: 0
+}
+.layoutDetailCTV {
+    width: 1440px;
+    height: 1527px;
+    margin: auto;
+}
+
+/* =============================== */

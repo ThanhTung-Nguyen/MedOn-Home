@@ -1,0 +1,7 @@
+.ant-menu-inline .ant-menu-item{
+    height: 64px;
+}
+.ant-menu-vertical > .ant-menu-item {
+    height: 64px;
+    line-height: 64px;
+}

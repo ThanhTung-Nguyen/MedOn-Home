@@ -1,0 +1,18 @@
+.name {
+  height: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+.waitCTV {
+  width: 139px;
+  height: 36px;
+  background-color: #FEF3D6;
+  color: #ffb800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  margin-left: 14px;
+}

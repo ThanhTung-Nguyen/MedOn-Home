@@ -1,0 +1,14 @@
+.tbDoctorList {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #EFEFEF;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    font-size: 14px;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    background-color: #FFFFFF;
+  }

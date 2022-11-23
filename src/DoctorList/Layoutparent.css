@@ -1,0 +1,31 @@
+.detailLayoutparent {
+  width: 1440px;
+  height: 1527px;
+  margin: auto;
+}
+.site-layout-background {
+    background: #FAFAFA;
+    display: flex;
+    justify-content: space-between;
+}
+.arrow {
+    width: 180px;
+    height: 55px;
+    display: flex;
+    justify-content: space-between;
+}
+.arrow .titl {
+    height: 40px;
+    display: flex;
+    align-items: flex-end;
+}
+.trigger {
+  background: #fff;
+  padding: 0;
+  width: 15px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  border: 1px solid  #EFEFEF;
+  border-radius: 0 4px 4px 0;
+}
